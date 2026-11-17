@@ -1,0 +1,6 @@
+# O mediapipe já instala o OpenCV junto (não precisa colocar o opencv aqui)
+mediapipe>=0.10.14
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.26
+joblib>=1.3
