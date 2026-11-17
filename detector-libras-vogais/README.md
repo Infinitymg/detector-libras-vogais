@@ -71,10 +71,8 @@ Na primeira vez que a câmera for usada, o modelo de mãos do MediaPipe (uns 8 M
 
 Python · MediaPipe · OpenCV · scikit-learn · pandas · NumPy
 
-## Equipe
 
 - Matheus Marques Gomes — [@Infinitymg](https://github.com/Infinitymg)
-- _Nome do integrante_ — _o que fez_
-- _Nome do integrante_ — _o que fez_
+
 
 Projeto apresentado na Amostra Tech — Uniube, curso de Sistemas de Informação.
